@@ -1,4 +1,4 @@
-# 🖥️ Installer
+# 🖥️ INSTALLER
 
 **Installer** is a legacy software automation tool designed to download, install, and configure applications from a central database.  
 Originally built to streamline work in a computer shop, it supports both single and batch installations with silent, unattended execution.
