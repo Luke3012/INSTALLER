@@ -1,0 +1,256 @@
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\PROGRAM INSTALLER.vbprojResolveAssemblyReference.cache
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\PROGRAM INSTALLER.vbproj.GenerateResource.Cache
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\bin\Debug\INSTALLER.exe.config
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\bin\Debug\INSTALLER.exe
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\bin\Debug\INSTALLER.pdb
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\bin\Debug\INSTALLER.xml
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Diritti.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.IAinfo.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.INIZIO.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Haifinito.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.InstallALL.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.InstallUNO.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Resources.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Office2016Choose.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.OfficeChoose.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.SecurityChoose.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Vchoose.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.wchoose.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.exe
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.xml
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.pdb
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.HELPING.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\bin\Debug\INSTALLER.exe.config
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\bin\Debug\INSTALLER.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\bin\Debug\INSTALLER.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\bin\Debug\INSTALLER.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\PROGRAM INSTALLER.vbprojResolveAssemblyReference.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Diritti.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.HELPING.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.IAinfo.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.INIZIO.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Haifinito.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.InstallALL.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.InstallUNO.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Office2016Choose.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.OfficeChoose.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.SecurityChoose.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Vchoose.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Wchoose.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\PROGRAM INSTALLER.vbproj.GenerateResource.Cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.pdb
+C:\Users\lucat\Desktop\INSTALLER.exe.config
+C:\Users\lucat\Desktop\INSTALLER.exe
+C:\Users\lucat\Desktop\INSTALLER.pdb
+C:\Users\lucat\Desktop\INSTALLER.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome2.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.RestoreP.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Changelog.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.UpdateDetermination.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome1.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Chrome.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Office2010.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Java.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.rufus.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.attivatore.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.adobe.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.ccleaner.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.nero7.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.qbittorrent.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.minecraft.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.AboutBox1.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.sendemail.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.kingdomnewlands.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.othersettings.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome0.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome01.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome02.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\Interop.Shell32.dll
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\PROGRAM INSTALLER.vbproj.ResolveComReference.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome015.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.infohelp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.downloadproblematic.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.deleteapps.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome15.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.afterupdate.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\Interop.Scripting.dll
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Driver.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide0.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide1.resources
+C:\Users\Desktop\INSTALLER\INSTALLER.exe.config
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\Interop.Scripting.dll
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\Interop.Shell32.dll
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\PROGRAM INSTALLER.vbproj.ResolveComReference.cache
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.AboutBox1.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.adobe.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.afterupdate.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.attivatore.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.ccleaner.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Changelog.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Chrome.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.deleteapps.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.downloadproblematic.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Driver.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide0.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide1.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.infohelp.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Java.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.kingdomnewlands.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.minecraft.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.nero7.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Office2010.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.othersettings.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.qbittorrent.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.RestoreP.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.rufus.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.sendemail.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.UpdateDetermination.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome0.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome01.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome015.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome02.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome1.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome15.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome2.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.firefox.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.opera.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.hpsupport.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.samsungupdate.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.driverbooster.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide2.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide3.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER._7zip.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide4.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\PROGRAM INSTALLER.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide5.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide6.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.GuideFinish.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.easymode.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome16.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.kms10.resources
+C:\Users\lucat\Documents\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Loading.resources
+C:\Users\lucat\Desktop\comania\INSTALLER.exe.config
+C:\Users\lucat\Desktop\comania\INSTALLER.exe
+C:\Users\lucat\Desktop\comania\INSTALLER.pdb
+C:\Users\lucat\Desktop\comania\INSTALLER.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER._7zip.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.driverbooster.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.easymode.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.firefox.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide2.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide3.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide4.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide5.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Guide6.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.GuideFinish.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.hpsupport.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.kms10.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Loading.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.opera.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.samsungupdate.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\INSTALLER.Welcome16.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\PRIMA APP\PRIMA APP\obj\Debug\PROGRAM INSTALLER.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\Interop.Scripting.dll
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\Interop.Shell32.dll
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\PROGRAM INSTALLER.vbproj.ResolveComReference.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.AboutBox1.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.addlist.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.aftertool.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Changelog.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.deleteappsnew.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.downloader.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.editlista.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.genericwindow.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.HELPING.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.imagewindow.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.impostaaggiornamento.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.infohelp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.INIZIO.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Haifinito.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Liste.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.listeinstall.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Loading.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.nuovoaggiornamento.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.othersettings.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.processdelete.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.quandoaggiorna.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.RestoreP.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.sendemail.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.installa.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.updatedatabase.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.UpdateDetermination.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.waiting.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome0.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome01.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome015.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome02.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome1.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome15.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome16.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome17.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome2.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\PROGRAM INSTALLER.vbproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\PROGRAM INSTALLER.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio 2017\Projects\INSTALLER\INSTALLER\obj\Debug\PROGRAM INSTALLER.vbprojAssemblyReference.cache
+C:\Users\lucat\Desktop\INSTALLER\INSTALLER.exe.config
+C:\Users\lucat\Desktop\INSTALLER\INSTALLER.exe
+C:\Users\lucat\Desktop\INSTALLER\INSTALLER.pdb
+C:\Users\lucat\Desktop\INSTALLER\INSTALLER.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\Interop.Scripting.dll
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\Interop.Shell32.dll
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\PROGRAM INSTALLER.vbproj.ResolveComReference.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.AboutBox1.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.addlist.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.aftertool.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Changelog.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.deleteappsnew.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.downloader.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.editlista.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.genericwindow.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.HELPING.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.imagewindow.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.infohelp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.INIZIO.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Haifinito.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Liste.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.listeinstall.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Loading.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.nuovoaggiornamento.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.openornot.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.othersettings.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.processdelete.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.quandoaggiorna.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.RestoreP.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.sendemail.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.installa.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.UpdateDetermination.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.waiting.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome015.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome15.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome16.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome17.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.Welcome2.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.whatchange.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\PROGRAM INSTALLER.vbproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\PROGRAM INSTALLER.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.downloadersmall.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.nameapp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.copyinstaller.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.createapp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\INSTALLER.copyapp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Debug\PROGRAM INSTALLER.vbprojAssemblyReference.cache

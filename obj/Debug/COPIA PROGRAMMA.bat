@@ -1,0 +1,1 @@
+copy INSTALLER.exe C:\Users\%username%\Desktop

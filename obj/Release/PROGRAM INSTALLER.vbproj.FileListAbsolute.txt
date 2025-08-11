@@ -1,0 +1,52 @@
+C:\Users\lucat\Desktop\INSTALLER\INSTALLER.exe.config
+C:\Users\lucat\Desktop\INSTALLER\INSTALLER.exe
+C:\Users\lucat\Desktop\INSTALLER\INSTALLER.pdb
+C:\Users\lucat\Desktop\INSTALLER\INSTALLER.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\Interop.Scripting.dll
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\Interop.Shell32.dll
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\PROGRAM INSTALLER.vbproj.ResolveComReference.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.AboutBox1.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.addlist.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.aftertool.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Changelog.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.copyapp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.copyinstaller.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.createapp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.deleteappsnew.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.downloader.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.downloadersmall.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.editlista.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.genericwindow.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.HELPING.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.imagewindow.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.infohelp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.INIZIO.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Haifinito.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Liste.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.listeinstall.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Loading.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Resources.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.nameapp.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.nuovoaggiornamento.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.openornot.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.othersettings.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.processdelete.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.quandoaggiorna.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.RestoreP.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.sendemail.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.installa.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.UpdateDetermination.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.waiting.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Welcome.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Welcome015.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Welcome15.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Welcome16.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Welcome17.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.Welcome2.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.whatchange.resources
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\PROGRAM INSTALLER.vbproj.GenerateResource.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\PROGRAM INSTALLER.vbproj.CoreCompileInputs.cache
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.exe
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.xml
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\INSTALLER.pdb
+C:\Users\lucat\OneDrive\Documenti\Visual Studio\Projects\INSTALLER\INSTALLER\obj\Release\PROGRAM INSTALLER.vbproj.AssemblyReference.cache
